@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/Medido1/Project-tracking-intro-component)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://medido1.github.io/Project-tracking-intro-component/)
 
 ## My process
 
